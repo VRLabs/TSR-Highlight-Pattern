@@ -1,0 +1,14 @@
+{
+    "Properties": [
+        {
+            "Name": "Highlight Pattern",
+            "DisplayName": "Highlight pattern",
+            "Tooltip": "Pattern mask for highlights"
+        },
+        {
+            "Name": "Highlight Pattern_UV",
+            "DisplayName": "UV set",
+            "Tooltip": "UV set for the highlight pattern"
+        }
+    ]
+}
