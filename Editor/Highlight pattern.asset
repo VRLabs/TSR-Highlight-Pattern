@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Id: VRLabs.TSR.HighlightPattern
   Name: Highlight Pattern
-  Version: 1.0
+  Version: master
   Author: VRLabs
   Description: Adds option for a pattern texture for highlights
   EnableProperties:
